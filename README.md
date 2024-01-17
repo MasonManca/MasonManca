@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mason Manca</h1>
 <h3 align="center">Currently a student at Gonzaga University</h3>
 
-- 🔭 I’m currently working on [Immobiliare](https://github.com/immobiliareai)
+- I’m currently working on [Immobiliare](https://github.com/immobiliareai)
 
 - 📫 How to reach me **mason.manca11@gmail.com**
 
