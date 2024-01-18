@@ -3,7 +3,7 @@
 
 - I’m currently working on [Immobiliare](https://github.com/immobiliareai)
 
-- 📫 How to reach me **mason.manca11@gmail.com**
+- How to reach me **mason.manca11@gmail.com**
 
 - Resume: [https://docs.google.com/document/d/18Ii_aKc5JeUf34LD-0BmKH3rH-tMoIGkES-B1bJO6Yw/edit?usp=sharing](https://docs.google.com/document/d/18Ii_aKc5JeUf34LD-0BmKH3rH-tMoIGkES-B1bJO6Yw/edit?usp=sharing)
 
